@@ -25,8 +25,8 @@ purchases and sales. It is a web-based application implemented using PHP with My
 3. For Pharmacist Login, refer to the 'emplogin' table in the database. 
     Example:
     ```
-    Username: varshini
-	Password: pass7
+    Username: amaya
+	Password: pass1
     ```
 
 # About the Project
