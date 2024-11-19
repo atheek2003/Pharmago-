@@ -97,11 +97,11 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 	
 ### ER Diagram
 
-<img src="https://github.com/Varshini-E/Pharmacy-Management-System/blob/master/ER_Diagram.png">
+<img src="https://github.com/atheek2003/Pharmago-/blob/main/ER_Diagram.png">
 
 ### Relational Database Model
 
-<img src="https://github.com/Varshini-E/Pharmacy-Management-System/blob/master/RelationalModel.png">
+<img src="https://github.com/atheek2003/Pharmago-/blob/main/RelationalModel.png">
 
 ## Additional Information
 
